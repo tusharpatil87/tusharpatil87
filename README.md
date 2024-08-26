@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tushar Patil
 - 👀 I’m interested in DataScience Related Globe
 - 🌱 I’m familiar with Python/ML/AI world.
-- 💞️ I’m enjoing the process of enhancing my skills in Python/ML/AI/Pandas/Numpy/Matplotlib/Seaborn/Sci-Kit learn/Tensorflow/Keras/Azure for Machine Learning/AWS Sagemaker
+- 💞️ I’m enjoing the process of enhancing my skills in Python/ML/AI/Pandas/Numpy/Matplotlib/Seaborn/Sci-Kit learn/Tensorflow/Keras/Azure for Machine Learning/AWS Sagemaker/Flask/Django
 - 📫 reach me here..
 
 <!---
